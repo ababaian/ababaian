@@ -1,11 +1,11 @@
 ## Artem Babaian, PhD
-
-[About](http://rrna.ca/) : _Computational Biologist | Freelancer_
-
+_Computational Biologist | Freelancer_
 
 ### RNA-based Lifeform
 
 My passion is in the study of the interface between RNA and Genetics. Life's most fundamental gene, ribosomal RNA, is the catalyst for protein synthesis. I am defining the functional genetic (and epigenetic) sequence variation in human ribosomal RNA, and it's impact in human disease.
+
+[Learn More](http://rrna.ca/) 
 
 ### Ongoing Projects
 

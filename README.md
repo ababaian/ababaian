@@ -14,3 +14,10 @@ My passion is in the study of the interface between RNA and Genetics. Life's mos
 - [Crown: Exploration of the genetic variation of human rDNA](https://github.com/ababaian/Crown)
 
 - [hackseq: Vancouver-based *-omics hackathon](https://www.hackseq.com)
+
+
+---
+
+![Deltavirus](http://rrna.ca/assets/img/mmonDV.gif)
+
+_Marmota monax Deltavirus_

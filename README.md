@@ -4,10 +4,10 @@ _Computational Biologist | Freelancer_
 <img align="left" src="http://rrna.ca/assets/img/mmonDV.gif">
 
 ```
-The Marmota Monax Deltavirus posseses a circular
-RNA genome which folds itself into a rod via the
-nucleotide base pair interactions, shown here
-with colored arcs.
+Figure 1. The Marmota Monax Deltavirus posseses a
+circular RNA genome which folds itself into a rod
+via the nucleotide base pair interactions, shown
+here with colored arcs.
 ```
 ---
 

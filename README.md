@@ -1,9 +1,17 @@
 ## Artem Babaian, PhD
 _Computational Biologist | Freelancer_
 
-### RNA-based Lifeform
+<img align="left" src="http://rrna.ca/assets/img/mmonDV.gif">
 
-![Marmota monax Deltavirus](http://rrna.ca/assets/img/mmonDV.gif)
+```
+The Marmota Monax Deltavirus posseses a circular
+RNA genome which folds itself into a rod via the
+nucleotide base pair interactions, shown here
+with colored arcs.
+```
+---
+
+### RNA-based Lifeform
 
 My passion is in the study of the interface between RNA and Genetics. Life's most fundamental gene, ribosomal RNA, is the catalyst for protein synthesis. I am defining the functional genetic (and epigenetic) sequence variation in human ribosomal RNA, and it's impact in human disease.
 

@@ -13,7 +13,7 @@ as colored arcs.
 
 ### The RNA-based Lifeforms Laboratory
 
-Our passion is in the study of the interface between RNA and Genetics. Life's most fundamental gene, ribosomal RNA, is the catalyst for protein synthesis. I am defining the functional genetic (and epigenetic) sequence variation in human ribosomal RNA, and it's impact in human disease. We doing some virus-hunting projects on the side too.
+Our passion is in the study of the interface between RNA and Genetics. Life's most fundamental gene, ribosomal RNA, is the catalyst for protein synthesis. We am defining the functional genetic (and epigenetic) sequence variation in human ribosomal RNA, and it's impact in human disease. We doing some virus-hunting projects on the side too.
 
 [Learn More](http://rrna.ca/) 
 

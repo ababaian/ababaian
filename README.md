@@ -1,7 +1,7 @@
 ## Artem Babaian, PhD
 _Computational Biologist_
 
-<img align="left" src="http://rrna.ca/assets/img/mmonDV.gif">
+<img align="left" src="https://raw.githubusercontent.com/ababaian/ababaian/refs/heads/master/mmonDV.gif">
 
 ```
 Figure 1. The Marmota Monax Deltavirus posseses a

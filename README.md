@@ -26,3 +26,5 @@ Our passion is in the study of the interface between RNA and Genetics. Life's mo
 - [hackseq: Vancouver-based *-omics hackathon](https://www.hackseq.com)
 
 
+## Contact
+[a.babaian (a) utoronto <.> ca](a.babaian@utoronto.ca.asc)
